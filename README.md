@@ -29,7 +29,7 @@ This is the core cycle of the adaptive test. It repeats until the stopping crite
 * **Conclusion:** Once the loop is broken, the system performs the **final ability estimation** to generate the final score and report.
 
   
-<sub><sub>**⚠️ Recommendation:** The following is a summary of the process. For a comprehensive understanding and underlying theory, **it is strongly recommended to refer to Magis et al. (2017)**.</sub></sub>
+**⚠️ Recommendation:** The following is a summary of the process. For a comprehensive understanding and underlying theory, **it is strongly recommended to refer to Magis et al. (2017)**.
 
 
 ---
